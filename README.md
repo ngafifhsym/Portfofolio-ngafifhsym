@@ -1,2 +1,7 @@
 # Portfofolio-ngafifhsym
-Menjelaskan tentang data diri dan memperlihatkan portfolio
+
+Ambil
+git clone https://github.com/ngafifhsym/Portfofolio-ngafifhsym
+
+Membuat node modules
+npm install
